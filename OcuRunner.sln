@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcuRunner.CSharp", "OcuRunner.CSharp.csproj", "{7A3E265C-3C10-0B33-0259-70884A7EEB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcuRunner.CSharp.Editor", "OcuRunner.CSharp.Editor.csproj", "{9341FFAE-81E2-55B8-CAA8-ACF222CD6876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3E265C-3C10-0B33-0259-70884A7EEB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3E265C-3C10-0B33-0259-70884A7EEB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3E265C-3C10-0B33-0259-70884A7EEB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3E265C-3C10-0B33-0259-70884A7EEB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9341FFAE-81E2-55B8-CAA8-ACF222CD6876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9341FFAE-81E2-55B8-CAA8-ACF222CD6876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9341FFAE-81E2-55B8-CAA8-ACF222CD6876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9341FFAE-81E2-55B8-CAA8-ACF222CD6876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
